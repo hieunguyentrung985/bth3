@@ -1,0 +1,254 @@
+.truongdhspkt{
+    width:100%;
+    height: 20px;
+    border: 3px solid blue;
+    text-align:left;
+    font-size: 15px;
+}
+.khoacntt {
+    width: 100%;
+    height: 30px;
+    border: 3px solid blue;
+    text-align: left;
+    font-size: 30px;
+    color: deepskyblue;
+}
+.header {
+    height: 583px;
+    width: 100%;
+    border: 3px solid blue;
+    margin-top: 20px;
+}
+.divheadermenu {
+    width: 100%;
+    height: 40px;
+    border-bottom: 3px solid green;
+}
+.headermenu {
+    list-style-type: none;
+    border-bottom: 3px solid green;
+    padding-bottom: 7px;
+    margin-top: 3px;
+}
+.headermenu li{
+    display: inline-block;
+    width: 12%;
+    text-align:center;
+    font-size: 13px;
+    border: 3px solid red;
+}
+.headermenu li:first-child{
+    display: inline-block;
+    width: 7%;
+    text-align:center;
+    font-size: 13px;
+}
+.headerimg {
+    height: 535px;
+    width: 100%;
+    border: 3px solid red;
+}
+.backgroundimg{
+    width: 100%;
+    height: 100%;
+}
+.content {
+    height: 300px;
+    width: 100%;
+    border: 3px solid red;
+    margin-top: 10px;
+}
+.content .tintucsukien{
+    height: 295px;
+    width: 65%;
+    border: 3px solid orange;
+    float:left;
+}
+.tintucsukien .tieude{
+    text-align:left;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    width: 30%;
+    line-height:35px;
+}
+hr{
+    border-width: 3px;
+    border-color: mediumvioletred;
+    margin-top:0;
+    margin-bottom:5px;
+}
+.tintucsukien .tinnoibat {
+    width: 40%;
+    height: 235px;
+    border: 3px solid gray;
+    text-align: center;
+    float:left;
+}
+.tinnoibat img{
+    width: 40%;
+    height: 40%;    
+}
+.tinnoibat .tinvamota{
+    text-align:left;
+}
+.tinnoibat .h2tinnoibat{
+    font-size: 15px;
+}
+.tinnoibat .mota{
+    font-size: 13px;
+}
+.tintucsukien .listtin {
+    width: 55%;
+    height: 235px;
+    border: 3px solid gray;
+    text-align: left;
+    float: left;
+}
+.listtin .tungtinmot {
+    height: 53px;
+    width: 100%;
+    border: 3px solid gray;
+}
+.chuaanh {
+    float: left;
+    width: 45%;
+    border: 3px solid blue;
+}
+.tungtinmot .anh{
+    width:100%;
+    height: 100%;
+}
+.motatin {
+    width: 51%;
+    height: 235px;
+    border: 3px solid red;
+    float:left;
+}
+.motatin .tintunganh{
+    height: 53px;
+    width: 100%;
+    border: 3px solid gray;
+}
+.thongbao {
+    float: left;
+    width: 33%;
+    height: 295px;
+    border: 3px solid gray;
+}
+
+.thongbao .tieude{
+    text-align:left;
+    font-size: 20px;
+    background-color: dodgerblue;
+    color: white;
+    width: 100%;
+    line-height:35px;
+}
+.dstintuc {
+    width: 100%;
+    height: 260px;
+    border: 3px solid gray;
+}
+.dstintuc .tin{
+    border: 3px solid gray;
+    margin-top:0;
+}
+.tin li {
+    border: 3px solid gray;
+    width: 100%;
+    height: 37px;
+}
+.content2 {
+    width: 100%;
+    height: 500px;
+    border: 3px solid gray;
+    margin-top: 20px;
+}
+.content2 .hoithisinhvien{
+    height: 500px;
+    width: 65%;
+    border: 3px solid orange;
+    float:left;
+}
+.hoithisinhvien .tieude {
+    text-align: left;
+    font-size: 20px;
+    background-color: orange;
+    color: white;
+    width: 30%;
+    line-height: 35px;
+}
+.mautin12 {
+    width: 49%;
+    height: 170px;
+    float: left;
+    border: 3px solid orange;
+    margin-bottom: 5px;
+}
+.mautin34 {
+    width: 49%;
+    height: 170px;
+    float: left;
+    border: 3px solid orange;
+    margin-top: 0px;
+}
+.tieudemautin {
+    width: 49%;
+    height: 40px;
+    float: left;
+    border: 3px solid red;
+    margin-top:0;
+    text-align:center;
+    font-size: 25px;
+}
+.menuphai {
+    width: 33%;
+    height: 500px;
+    border: 3px solid gray;
+    float: left;
+}
+.the {
+    width: 90%;
+    height: 30px;
+    border: 3px solid red;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    color:white;
+}
+.menuphai .lienhe {
+    margin-top: 5px;
+    width: 90%;
+    height: 30px;
+    border: 3px solid red;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    background-color: dodgerblue;
+    color: white;
+}
+.menuphai .listlink {
+    width: 100%;
+    height: 160px;
+    border: 3px solid red;
+}
+.menuphai li {
+    line-height: 30px;
+    
+}
+.foot {
+    width: 100%;
+    height: 55px;
+    border: 3px solid red;
+    float:left;
+    margin-top:20px;
+    text-align:center;
+    padding: 20px 0 0 0;
+    background-color: dimgray;
+    color:whitesmoke;
+}
+.hoithisinhvien .anh {
+    width: 100%;
+    height: 100%;
+}
